@@ -3,11 +3,11 @@ import Card from "./Card";
 import "./cards.css";
 
 const imagenes = {
-  img1: "/react-secundaria/vite.svg",
-  img2: "/react-secundaria/cs.jpg",
-  img3: "/react-secundaria/edufisica.jpg",
-  img4: "/src/assets/lengua.jpg",
-  img5: "/src/assets/lenguajnative.jpg",
+  img1: "./mat.jpg",
+  img2: "./cs.jpg",
+  img3: "./edufisica.jpg",
+  img4: "./lengua.jpg",
+  img5: "./lenguajnative.jpg",
 };
 
 const linkDrive = {
