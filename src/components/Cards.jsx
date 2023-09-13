@@ -12,7 +12,7 @@ const imagenes = {
 
 const linkDrive = {
   primero:
-    "https://drive.google.com/drive/folders/1gD4d8RmhrSnrXtTgnUTplWzCntP_W5tK?usp=sharing",
+    "https://docs.google.com/forms/d/e/1FAIpQLSeWe4Qfs85SfAxJNQ8n8shm8lKEysgYvEtjhzxxABbSAVa_gg/viewform?usp=sf_link",
   segundo:
     "https://drive.google.com/drive/folders/1BiL2aN1wJD4Itj27mdMRCXNNzK3Y6SF6?usp=sharing",
   tercero:
