@@ -3,7 +3,7 @@ import Card from "./Card";
 import "./cards.css";
 
 const imagenes = {
-  img1: "/src/assets/mat.jpg",
+  img1: "/vite.svg",
   img2: "/src/assets/cs.jpg",
   img3: "/src/assets/edufisica.jpg",
   img4: "/src/assets/lengua.jpg",
