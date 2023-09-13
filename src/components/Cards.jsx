@@ -4,7 +4,7 @@ import "./cards.css";
 
 const imagenes = {
   img1: "/react-secundaria/vite.svg",
-  img2: "./src/assets/cs.jpg",
+  img2: "../assets/cs.jpg",
   img3: "/src/assets/edufisica.jpg",
   img4: "/src/assets/lengua.jpg",
   img5: "/src/assets/lenguajnative.jpg",
