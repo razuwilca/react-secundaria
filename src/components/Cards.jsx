@@ -12,9 +12,9 @@ const imagenes = {
 
 const linkDrive = {
   primero:
-    "https://docs.google.com/forms/d/e/1FAIpQLSeWe4Qfs85SfAxJNQ8n8shm8lKEysgYvEtjhzxxABbSAVa_gg/viewform?usp=sf_link",
+    "https://docs.google.com/forms/d/e/1FAIpQLSf0wxEeQmnDjrJWJxwQ2hQOCifa9WsABbw_u-Tr1UAolwLccw/viewform?usp=sf_link",
   segundo:
-    "https://drive.google.com/drive/folders/1BiL2aN1wJD4Itj27mdMRCXNNzK3Y6SF6?usp=sharing",
+    "https://docs.google.com/forms/d/e/1FAIpQLSdp6Fan0hVDYoZp6JLdbplQ_eDAXS42kc8Vln-RDHANSVBJSA/viewform?usp=sf_link",
   tercero:
     "https://drive.google.com/drive/folders/1y70yKIRNcE5-otLJy17yxPRliaaXLJuX?usp=sharing",
   cuarto:
